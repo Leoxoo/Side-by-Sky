@@ -19,7 +19,7 @@ A weather comparison app built with Flask that allows you to compare weather con
 2. **pip**: Ensure `pip` is installed for package management.
 3. **API Key**: Sign up for an [OpenWeather API Key](https://home.openweathermap.org/api_keys).
 
-### Installation
+### Installation ❗❗❗ have not been tested YET, so issues may arise
 1. **Clone the repository**: // Or simply download files from this repository
    ```bash
    git clone https://github.com/Leoxoo/Side-by-Sky.git
