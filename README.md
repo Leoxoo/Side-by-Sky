@@ -10,7 +10,8 @@ A weather comparison app built with Flask that allows you to compare weather con
 - 🔒 Secure API key management using `.env`.
 
 ---
-<img width="1688" alt="Screenshot 2025-01-19 at 04 10 18" src="https://github.com/user-attachments/assets/c3125aaf-7096-4413-abc7-ec157c37c15a" />
+<img width="1986" alt="Screenshot 2025-01-20 at 15 30 54" src="https://github.com/user-attachments/assets/2d468df4-61c1-42d7-85ce-ce9e655dada5" />
+
 
 ## Getting Started
 
